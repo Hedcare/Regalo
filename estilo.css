@@ -6,45 +6,45 @@
 }
 
 html{
-    background-color: black;
+    background-color: rgb(109, 117, 196);
 }
 
 body{
-    width: 750px;
-    height: 750px;
+    width: 800px;
+    height: 1800px;
     margin: auto;
-    background-color: aqua;
+    background-color: rgb(241, 226, 141);
 }
 
 header{
     width: 750px;
     height: 250px;
-    background-color: azure;
+    background-color: rgb(241, 226, 141);
 }
 
 nav{
     width:750px;
     height: 50px;
-    background-color: blueviolet;
+    background-color:  rgb(241, 226, 141);
 }
 
 main{
     width: 750px;
     height: 400px;
-    background-color: brown;
+    background-color:rgb(241, 226, 141);
 }
 
 footer{
     width: 750px;
     height: 50px;
-    background-color: coral;
+    background-color: rgb(241, 226, 141);
 }
 
 section#Banner
 {
     width: 500px;
     height: 250px;
-    background-color: darkblue;
+    background-color:  rgb(241, 226, 141);
     float: left;
 }
 
@@ -52,7 +52,7 @@ section#logo
 {
     width: 250px;
     height: 125px;
-    background-color: crimson;
+    background-color:rgb(241, 226, 141);
     float: left;
 }
 
@@ -60,7 +60,7 @@ section#login
 {
     width: 250px;
     height: 125px;
-    background-color: green;
+    background-color: rgb(241, 226, 141);
     float: left;
 }
 
@@ -68,7 +68,7 @@ aside#izquierda
 {
     width: 150px;
     height: 400px;
-    background-color: rgb(175, 46, 192);
+    background-color:  rgb(241, 226, 141);
     float: left;
 }
 
@@ -76,13 +76,13 @@ article{
     width: 500px;
     height: 400px;
     float: left;
-    background-color: darkslategray;
+    background-color:  rgb(241, 226, 141);
 }
 
 aside#derecha
 {
     width: 100px;
     height: 400px;
-    background-color: rgb(175, 46, 192);
+    background-color: rgb(241, 226, 141);
     float: left;
 }
